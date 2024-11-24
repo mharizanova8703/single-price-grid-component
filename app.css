@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Karla:ital,wght@0,200..800;1,200..800&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Matemasie&display=swap');
+
+body {
+    background-color: #e7f0f6;
+}
+
+.container {
+    margin: 4rem;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: offset-x offset-y blur-radius spread-radius color;
+}
+
+.green-txt {
+    color: #2AB3B1;
+}
+
+.neon-green {
+    color: #C0DF33;
+}
+
+.bg-neon {
+    background-color: #C0DF33;
+}
+
+.blue-txt {
+    color: #9AA7BE;
+}
+
+.txt-white {
+    color: #ffffff;
+}
+
+.bg-dark-tail {
+    background-color: #2AB3B1;
+}
+
+.bg-light-tail {
+    background-color: #48c0bb;
+}
+
+.karla-reg {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.karla-bold {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p {
+    font-family: "Karla",
+        sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-family: "Karla",
+        sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.7rem;
+}
+
+.number {
+    font-family: "Karla",
+        sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+button {
+    transition: all 0.3s ease;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    transform: scale(1.1);
+}
